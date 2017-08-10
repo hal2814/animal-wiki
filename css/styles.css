@@ -1,0 +1,25 @@
+#warthog {
+  display:;
+}
+#lion {
+  display:;
+}
+#sugarGlider {
+  display:;
+}
+
+.wartInfo{
+  display: none;
+}
+
+.lionInfo{
+  display: none;
+}
+
+.sugarInfo{
+  display: none;
+}
+
+img{
+  width: 75%;
+}
